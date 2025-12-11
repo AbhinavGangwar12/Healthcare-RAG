@@ -20,7 +20,7 @@ A production-ready, full-stack Retrieval-Augmented Generation (RAG) system built
 ## 📸 Demo / UI Preview
 
 <!-- Replace this with your screenshot or demo GIF -->
-![Sample Output](Screenshot 2025-12-11 210147.png)
+![Sample Output](sample_output.png)
 
 ---
 
