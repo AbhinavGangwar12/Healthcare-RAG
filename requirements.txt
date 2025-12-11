@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+streamlit
+PyMuPDF
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+ragas
+transformers
+torch
+rank_bm25
+faiss-cpu
+requests
+python-multipart
+sentence-transformers
